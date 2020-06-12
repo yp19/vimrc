@@ -1,0 +1,21 @@
+[submodule "my_plugins/vim-codefmt"]
+	path = my_plugins/vim-codefmt
+	url = https://github.com/google/vim-codefmt
+[submodule "my_plugins/vim-maktaba"]
+	path = my_plugins/vim-maktaba
+	url = https://github.com/google/vim-maktaba
+[submodule "my_plugins/vim-glaive"]
+	path = my_plugins/vim-glaive
+	url = https://github.com/google/vim-glaive
+[submodule "my_plugins/vim-go"]
+	path = my_plugins/vim-go
+	url = https://github.com/fatih/vim-go
+[submodule "my_plugins/vim-graphql"]
+	path = my_plugins/vim-graphql
+	url = https://github.com/jparise/vim-graphql
+[submodule "my_plugins/vim-javascript"]
+	path = my_plugins/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "my_plugins/YouCompleteMe"]
+	path = my_plugins/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe
